@@ -1,0 +1,13 @@
+# Comandos usados
+
+# Caminho para o diretorio
+ cd home/usuario/EbacLinux/modulo1
+
+# criação do arquivo (*.sh)
+nano calculadora.sh
+# comandos para as  permissões
+chmod +x calculadora.sh
+chmod 744 calculadora.sh
+
+#execução 
+./calculadora.sh
